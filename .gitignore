@@ -1,4 +1,6 @@
 myenv
 uber.csv
 .ipynb_checkpoints
-
+.exe
+.DS_store
+.csv
